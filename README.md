@@ -1,5 +1,5 @@
 # Multi-text-Text-Classification
-Build ML model based on Text classification to predict the industry based on job title column 
+Build ML model based on NLP Text classification to predict the industry based on job title column 
 
 ## Overview & Background
 ### Industry Classification Problem
@@ -13,4 +13,6 @@ The classifier makes the assumption that each new complaint is assigned to one a
 The Dataset that has two variables (Job title & Industry) in a csv format of more than 8,500 samples.
 
 The dataset is imbalanced (Imbalance means that the number of data points available for different classes is different).
+
+#### Can you read Documnt that contain more discription about this project. 
 
